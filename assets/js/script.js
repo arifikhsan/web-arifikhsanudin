@@ -18,6 +18,3 @@ let pTime = document.createElement("p");
 
 pGreeting.innerHTML = greeting
 divTime.appendChild(pGreeting);
-
-console.log(now.getHours())
-
