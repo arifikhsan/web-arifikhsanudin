@@ -55,7 +55,8 @@ footer {
 }
 
 .showcase:hover {
-
+  transform: scale(1.05, 1.05) rotate(5deg);
+  transition: transform 500ms ease-in-out;
 }
 
 .showcase-title {
